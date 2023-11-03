@@ -1,0 +1,255 @@
+id,gender,dunble_id,credit_card,drug_company
+1,Male,edu.mit.Span,mastercard,Uriel Pharmacy Inc.
+2,Female,vu.de.Biodex,mastercard,"Therakos, Inc."
+3,Male,com.biblegateway.Otcom,jcb,"Janssen Biotech, Inc."
+4,Male,gov.senate.Bytecard,mastercard,"The Yeon Co., Ltd."
+5,Male,com.fc2.Wrapsafe,diners-club-enroute,Harmon Stores Inc.
+6,Female,uk.ac.ox.Job,visa,ARMY AND AIR FORCE EXCHANGE SERVICE
+7,Male,org.networkadvertising.Tresom,solo,Teva Pharmaceuticals USA Inc
+8,Agender,com.foxnews.Subin,jcb,"Nan Mei Pharmaceutical Co., Ltd."
+9,Male,net.php.Mat Lam Tam,maestro,AvPAK
+10,Polygender,gov.whitehouse.Zontrax,china-unionpay,"Synergy Formulas, Inc."
+11,Male,com.instagram.Ventosanzap,jcb,"DolGenCorp, LLC"
+12,Female,com.meetup.Redhold,jcb,"Nelco Laboratories, Inc."
+13,Female,com.ifeng.Sub-Ex,visa,"MEIJER, INC."
+14,Female,net.earthlink.Namfix,instapayment,REMEDYREPACK INC.
+15,Male,ca.cbc.Zaam-Dox,mastercard,"Bare Escentuals Beauty, Inc."
+16,Female,com.wsj.Tresom,visa,ENCHANTE ACCESSORIES INC.
+17,Male,edu.illinois.Opela,jcb,Contract Pharmacy Services-PA
+18,Male,jp.co.rakuten.Redhold,switch,JN Pharm
+19,Male,com.smugmug.Zathin,jcb,Jazeera Pharmaceutical
+20,Male,gov.va.Tresom,diners-club-enroute,"Johnson & Johnson Consumer Products Company, Division of Johnson & Johnson Consumer Companies, Inc."
+21,Male,uk.co.amazon.Trippledex,jcb,Qualitest Pharmaceuticals
+22,Female,com.gizmodo.Zaam-Dox,diners-club-carte-blanche,CleanWell
+23,Male,com.nature.Bamity,jcb,"Deb USA, Inc."
+24,Female,com.multiply.Tresom,solo,NARS COSMETICS
+25,Genderqueer,com.mayoclinic.Transcof,jcb,Time Cap Labs Inc
+26,Female,com.jigsy.Aerified,jcb,Teva Pharmaceuticals USA Inc
+27,Agender,com.ning.Aerified,bankcard,Clinical Solutions Wholesale
+28,Female,com.usnews.Sonsing,jcb,Aurobindo Pharma Limited
+29,Female,com.naver.Aerified,mastercard,"Meijer Distribution, Inc."
+30,Female,jp.ne.dion.Quo Lux,diners-club-international,Neutrogena Corporation
+31,Male,com.patch.Sonsing,jcb,Target Corporation
+32,Female,com.mashable.It,diners-club-enroute,"Bath & Body Works, Inc."
+33,Female,au.org.auda.Bitwolf,jcb,Teva Pharmaceuticals USA Inc
+34,Female,com.vinaora.Keylex,jcb,"Deseret Biologicals, Inc."
+35,Male,com.economist.Konklab,visa,Sion Biotext Medical Ltd
+36,Male,de.spiegel.Domainer,jcb,Kroger Co.
+37,Polygender,com.twitter.Fix San,switch,"Roxane Laboratories, Inc"
+38,Male,com.theguardian.Keylex,mastercard,Washington Homeopathic Products
+39,Male,gov.dot.Flowdesk,visa-electron,Kay Chemcial Co.
+40,Female,com.booking.Zoolab,jcb,"Carlsbad Technology, Inc"
+41,Male,com.weebly.Job,instapayment,Amerisource Bergen
+42,Male,com.java.Tresom,jcb,Remedy Makers
+43,Female,com.addthis.Zathin,visa-electron,"L'oreal Usa, Inc."
+44,Female,com.devhub.Flexidy,jcb,"Nelco Laboratories, Inc."
+45,Female,io.soup.Rank,mastercard,Pharmacia and Upjohn Company
+46,Female,com.ucoz.Cardify,visa,Jubilant HollisterStier LLC
+47,Male,com.purevolume.Opela,diners-club-carte-blanche,Aurolife Pharma LLC
+48,Female,com.boston.Bamity,mastercard,"Allermed Laboratories, Inc."
+49,Male,la.51.Tampflex,maestro,"Accra-Pac, Inc."
+50,Male,au.gov.oaic.Hatity,mastercard,Supervalu Inc
+51,Male,uk.co.amazon.Quo Lux,maestro,Rebel Distributors Corp
+52,Male,com.example.Greenlam,diners-club-us-ca,"PD-Rx Pharmaceuticals, Inc."
+53,Male,edu.mit.Flowdesk,switch,Beiersdorf Inc
+54,Male,gov.census.Matsoft,china-unionpay,American Health Packaging
+55,Female,com.ibm.Transcof,jcb,"General Injectables & Vaccines, Inc"
+56,Male,uk.co.independent.Gembucket,jcb,sanofi-aventis U.S. LLC
+57,Female,com.topsy.Keylex,jcb,"Pharbest Pharmaceuticals, Inc."
+58,Male,edu.yale.Regrant,jcb,UV Natural International Pty Ltd
+59,Agender,com.statcounter.Hatity,china-unionpay,REMEDYREPACK INC.
+60,Female,edu.umn.Daltfresh,mastercard,"Novartis Consumer Health, Inc."
+61,Male,edu.psu.Job,diners-club-international,"Jets, Sets, & Elephants Beauty Corp."
+62,Female,uk.co.timesonline.Daltfresh,diners-club-international,American Health Packaging
+63,Male,it.tuttocitta.Span,jcb,Procter and Gamble Manufacturing Company
+64,Female,cz.mapy.Ronstring,jcb,"GOWOONSESANG COSMETICS CO., LTD."
+65,Female,be.youtu.Gembucket,jcb,B. Braun Medical Inc.
+66,Female,com.ehow.It,jcb,"Aphena Pharma Solutions - Tennessee, LLC"
+67,Female,com.mac.Voyatouch,jcb,"ASSURED / DOLLAR TREE (Greenbrier International, Inc.)"
+68,Female,uk.co.ebay.Latlux,jcb,"Antigen Laboratories, Inc."
+69,Female,cz.mapy.Bamity,diners-club-carte-blanche,"LG Household and Healthcare, Inc."
+70,Female,com.topsy.Bigtax,maestro,Procter & Gamble Manufacturing Co.
+71,Female,com.ebay.Overhold,jcb,"Dixon Investments, Inc."
+72,Male,com.baidu.Duobam,diners-club-enroute,Mylan Pharmaceuticals Inc.
+73,Female,com.fotki.Subin,jcb,Aidarex Pharmaceuticals LLC
+74,Female,com.biblegateway.Hatity,maestro,American Health Packaging
+75,Female,net.clickbank.Zaam-Dox,visa-electron,Zydus Pharmaceuticals (USA) Inc.
+76,Male,com.storify.Bitwolf,diners-club-carte-blanche,BELVEDERE INTERNATIONAL INC.
+77,Female,au.gov.oaic.Y-find,jcb,"Medline Industries, Inc"
+78,Female,com.netscape.Keylex,jcb,"Nelco Laboratories, Inc."
+79,Female,fm.last.It,jcb,Cardinal Health
+80,Male,com.live.Bytecard,mastercard,Testpak Holding Company
+81,Female,net.themeforest.Trippledex,visa-electron,Uriel Pharmacy Inc
+82,Female,ca.cbc.Zoolab,diners-club-us-ca,Bryant Ranch Prepack
+83,Female,com.typepad.Sub-Ex,mastercard,REMEDY MAKERS
+84,Female,com.smugmug.Bigtax,jcb,Glenmark Generics Inc. USA
+85,Female,org.gnu.Redhold,maestro,State of Florida DOH Central Pharmacy
+86,Female,de.t-online.Temp,maestro,LIVE BETTER (The Great Atlantic & Pacific Tea Company)
+87,Female,com.squarespace.Stim,americanexpress,Best Choice (Valu Merchandisers Company)
+88,Male,com.canalblog.Trippledex,bankcard,"Avon Products, Inc."
+89,Male,com.samsung.Mat Lam Tam,jcb,Major Pharmaceuticals
+90,Male,fm.last.Matsoft,diners-club-enroute,Precision Dose Inc.
+91,Female,com.mapquest.Y-Solowarm,jcb,"Generics Bidco I, LLC dba Qualitest Pharmaceuticals"
+92,Female,com.economist.Sub-Ex,mastercard,Heritage Pharmaceuticals Inc.
+93,Female,edu.mit.Flexidy,jcb,"Jernigan Healthcare, Inc."
+94,Genderfluid,gov.usda.Voltsillam,jcb,"Wausau Paper Towel & Tissue, LLC"
+95,Female,com.lycos.Pannier,instapayment,"Newton Laboratories, Inc."
+96,Male,ca.cbc.Bigtax,mastercard,MarcasUSA LLC
+97,Male,de.t-online.Transcof,laser,"Shopko Stores Operating Co., LLC"
+98,Male,com.imdb.Namfix,jcb,"Antigen Laboratories, Inc."
+99,Male,edu.yale.Zathin,americanexpress,"ALK-Abello, Inc."
+100,Male,com.storify.Viva,mastercard,Merck Sharp & Dohme Corp.
+101,Female,com.reference.Biodex,jcb,Strides Arcolab Limited
+102,Male,com.pinterest.Temp,jcb,Guna spa
+103,Female,com.skyrock.Konklab,jcb,SHISEIDO AMERICA INC.
+104,Female,mil.army.Sonair,diners-club-international,REMEDYREPACK INC.
+105,Male,com.booking.Mat Lam Tam,jcb,"Nelco Laboratories, Inc."
+106,Male,gov.fda.Konklux,laser,Kinray
+107,Male,com.pinterest.Sub-Ex,visa-electron,REMEDYREPACK INC.
+108,Female,com.topsy.Span,instapayment,"Arbor Pharmaceuticals, Inc."
+109,Male,com.com.Flowdesk,mastercard,Mylan Pharmaceuticals Inc.
+110,Male,uk.co.google.Regrant,diners-club-enroute,STAT Rx USA LLC
+111,Female,com.yahoo.Bamity,jcb,"Nelco Laboratories, Inc."
+112,Male,com.reddit.Redhold,visa-electron,Hikma Pharmaceutical
+113,Male,com.seattletimes.Y-Solowarm,maestro,"Peaceful Mountain, Inc."
+114,Female,com.wikia.Biodex,switch,"Antigen Laboratories, Inc."
+115,Female,com.boston.Kanlam,mastercard,H E B
+116,Male,com.walmart.Voyatouch,maestro,Topco Associates LLC
+117,Male,au.com.smh.Vagram,jcb,The Body Shop Wake Forest
+118,Male,gov.whitehouse.Quo Lux,jcb,"Nelco Laboratories, Inc."
+119,Female,net.discuz.Temp,china-unionpay,"Sagent Pharmaceuticals, Inc."
+120,Male,com.ning.Transcof,jcb,Procter & Gamble Manufacturing Co.
+121,Male,com.delicious.Bamity,jcb,"Rugby Laboratories, Inc."
+122,Female,gov.loc.Bitwolf,jcb,Bryant Ranch Prepack
+123,Polygender,com.yelp.Holdlamis,jcb,Sandoz Inc
+124,Female,de.1und1.Cardify,jcb,Western Family Foods Inc
+125,Male,edu.msu.Hatity,diners-club-enroute,Mission Pharmacal Company
+126,Female,gov.usgs.Vagram,mastercard,Cardinal Health
+127,Male,de.spiegel.Tres-Zap,diners-club-us-ca,Kedrion S.p.A
+128,Male,com.vimeo.Treeflex,diners-club-carte-blanche,Aaron Industries Inc.
+129,Male,com.theglobeandmail.Temp,diners-club-us-ca,Hikma Pharmaceutical
+130,Female,edu.arizona.Cardify,instapayment,Aidarex Pharmaceuticals LLC
+131,Female,com.storify.Cardguard,jcb,H E B
+132,Male,com.usatoday.Greenlam,jcb,Kroger
+133,Female,org.wordpress.Cardguard,jcb,Nature's Way Holding Co
+134,Male,com.live.Mat Lam Tam,diners-club-carte-blanche,"PD-Rx Pharmaceuticals, Inc."
+135,Female,com.ted.Tresom,jcb,"DOLGENCORP, LLC"
+136,Male,uk.co.ebay.Asoka,diners-club-carte-blanche,Lake Erie Medical & Surgical Supply DBA Quality Care Products LLC
+137,Male,com.indiatimes.Sub-Ex,jcb,Mylan Pharmaceuticals Inc.
+138,Male,it.google.Cardguard,solo,AMERICAN SALES COMPANY
+139,Male,uk.co.webeden.Overhold,americanexpress,A-S Medication Solutions LLC
+140,Male,edu.msu.Bamity,jcb,Greenstone LLC
+141,Female,it.google.Zoolab,jcb,Clinical Solutions Wholesale
+142,Female,com.myspace.Fix San,switch,"Daiichi Sankyo, Inc."
+143,Genderfluid,edu.unc.Konklab,bankcard,Herbology International LLC
+144,Female,com.jiathis.Wrapsafe,visa-electron,Wakefern Food Corporation
+145,Male,com.oracle.Latlux,visa,Genzyme Corporation
+146,Female,gov.irs.Bytecard,jcb,REMEDYREPACK INC.
+147,Male,com.icq.Y-find,china-unionpay,"Revive Bioscience, Inc."
+148,Female,com.livejournal.Trippledex,maestro,"PD-Rx Pharmaceuticals, Inc."
+149,Female,com.bizjournals.Home Ing,diners-club-enroute,Qualitest Pharmaceuticals
+150,Female,com.ifeng.Asoka,jcb,"Golden State Medical Supply, Inc."
+151,Female,cn.desdev.Bitchip,jcb,Jubilant HollisterStier LLC
+152,Female,com.foxnews.Pannier,visa,"Golden State Medical Supply, Inc."
+153,Male,de.t-online.Pannier,diners-club-carte-blanche,"Allure Labs, Inc"
+154,Male,com.imgur.Daltfresh,laser,Lake Erie Medical DBA Quality Care Products LLC
+155,Male,com.usatoday.Flowdesk,jcb,SHISEIDO AMERICA INC.
+156,Female,org.wordpress.Regrant,instapayment,"PD-Rx Pharmaceuticals, Inc."
+157,Female,com.freewebs.Wrapsafe,mastercard,"Physicians Total Care, Inc."
+158,Female,de.e-recht24.Zaam-Dox,visa-electron,Cadila Healthcare Limited
+159,Male,io.pen.Home Ing,mastercard,"BioActive Nutritional, Inc."
+160,Female,com.wikispaces.Ventosanzap,jcb,"American Amenities, Inc."
+161,Male,io.pen.Konklab,maestro,Mylan Pharmaceuticals Inc.
+162,Female,jp.ne.dion.Ronstring,jcb,Rebel Distributors Corp
+163,Male,gov.nih.Cardguard,diners-club-carte-blanche,Bayer HealthCare Consumer Care
+164,Male,com.forbes.Tres-Zap,china-unionpay,"Physicians Total Care, Inc."
+165,Male,com.buzzfeed.Zathin,mastercard,AMERICAN SALES COMPANY
+166,Agender,me.about.Span,jcb,Uriel Pharmacy Inc.
+167,Female,com.yolasite.Tempsoft,switch,Aidarex Pharmaceuticals LLC
+168,Agender,com.usnews.Temp,jcb,Dynarex Corporation
+169,Female,gov.ed.Trippledex,mastercard,Conopco Inc. d/b/a Unilever
+170,Female,com.jimdo.Treeflex,visa,Bryant Ranch Prepack
+171,Male,com.howstuffworks.Bitwolf,maestro,Cardinal Health
+172,Male,com.phpbb.Alpha,visa-electron,Heel Inc
+173,Male,com.twitpic.Fixflex,jcb,"ALK-Abello, Inc."
+174,Female,au.gov.oaic.It,americanexpress,Proficient Rx LP
+175,Female,us.tx.state.Overhold,switch,"Ascend Laboratories, LLC"
+176,Male,com.weather.Biodex,jcb,Cardinal Health
+177,Female,gov.hud.Flowdesk,diners-club-enroute,"Fresh, Inc."
+178,Female,com.yahoo.Tampflex,switch,Bayer HealthCare Pharmaceuticals Inc.
+179,Non-binary,com.wp.Wrapsafe,jcb,DIRECT RX
+180,Male,cn.com.sina.Zontrax,jcb,MannKind Corporation
+181,Female,com.nifty.Duobam,jcb,Rite Aid
+182,Female,com.opera.Sonair,switch,"ZO Skin Health, Inc."
+183,Male,org.creativecommons.Solarbreeze,visa-electron,Kroger Company
+184,Female,com.hexun.Matsoft,jcb,Publix Super Markets Inc
+185,Female,com.cafepress.Zaam-Dox,diners-club-enroute,CHANEL PARFUMS BEAUTE
+186,Male,com.shutterfly.Tampflex,instapayment,"Janssen Pharmaceuticals, Inc."
+187,Male,com.mlb.Fintone,jcb,Mylan Institutional Inc.
+188,Polygender,net.cpanel.Holdlamis,jcb,Zydus Pharmaceuticals (USA) Inc.
+189,Male,com.alibaba.Transcof,jcb,"Preferred Pharmaceuticals, Inc."
+190,Female,jp.i2i.Subin,americanexpress,Geritrex Corp.
+191,Male,com.addthis.Domainer,mastercard,"Actavis Pharma, Inc."
+192,Male,com.mac.Ronstring,maestro,Sagent Pharmaceuticals
+193,Female,edu.umich.Sonsing,jcb,Aurobindo Pharma Limited
+194,Female,com.reference.Bitwolf,mastercard,Neutrogena Corporation
+195,Male,com.arstechnica.Mat Lam Tam,bankcard,"Golden State Medical Supply, Inc"
+196,Non-binary,com.jimdo.Keylex,americanexpress,walgreens
+197,Female,ru.vkontakte.Matsoft,visa,Schulke & Mayr GmbH
+198,Male,cn.gov.miibeian.Opela,jcb,"RZN Nutraceuticals, Inc."
+199,Male,ru.odnoklassniki.Tin,visa,NorthStar Rx LLC
+200,Non-binary,br.com.google.Stronghold,diners-club-international,American Health Packaging
+201,Male,com.dell.Viva,jcb,Bryant Ranch Prepack
+202,Female,com.economist.Tampflex,jcb,SHISEIDO AMERICAS CORPORATION
+203,Male,gov.hud.Tres-Zap,jcb,Direct RX
+204,Male,com.bizjournals.Tin,jcb,Natural Health Supply
+205,Male,edu.utexas.Alphazap,diners-club-enroute,"Antigen Laboratories, Inc."
+206,Male,gov.whitehouse.Kanlam,diners-club-carte-blanche,"L.N.K. International, Inc."
+207,Polygender,com.indiegogo.Stronghold,jcb,Delille Oxygen Company
+208,Female,gd.is.Solarbreeze,visa-electron,Homeocare Laboratories
+209,Female,jp.japanpost.Greenlam,maestro,SHISEIDO AMERICA INC.
+210,Male,gov.noaa.Tres-Zap,jcb,"Nelco Laboratories, Inc."
+211,Female,com.digg.Voyatouch,solo,"Bath & Body Works, Inc."
+212,Male,com.businessweek.Opela,jcb,Lanocorp Pacific Ltd
+213,Male,uk.co.ebay.Bigtax,switch,Henry Schein Inc.
+214,Male,com.skype.Toughjoyfax,switch,"ALK-Abello, Inc."
+215,Male,ch.admin.Hatity,jcb,Nivagen Pharmaceuticals Inc
+216,Male,com.diigo.Job,jcb,Pacific Health Collabroative
+217,Male,org.networkadvertising.Y-Solowarm,maestro,Mallinckrodt Inc.
+218,Female,com.mozilla.Zontrax,jcb,Unit Dose Services
+219,Female,org.mozilla.Zontrax,switch,Uriel Pharmacy Inc.
+220,Male,com.topsy.Flowdesk,switch,"Jets, Sets, & Elephants Beauty Corp."
+221,Female,com.about.Zoolab,maestro,"SHISEIDO CO., LTD."
+222,Male,com.marketwatch.Konklux,visa-electron,Sandoz Inc
+223,Male,jp.ne.dion.Rank,maestro,"H.J. Harkins Company, Inc."
+224,Male,com.parallels.Alphazap,jcb,Safetec of America
+225,Male,com.histats.Treeflex,bankcard,"H.J. Harkins Company, Inc."
+226,Female,com.friendfeed.Viva,jcb,The Wellness Center
+227,Female,com.github.Ronstring,jcb,Harmon Stores Inc.
+228,Female,edu.psu.Konklux,mastercard,Kmart Corporation
+229,Agender,uk.gov.Stronghold,jcb,"Fresenius Kabi USA, LLC"
+230,Female,com.indiegogo.Latlux,jcb,Precision Dose Inc.
+231,Male,com.cbslocal.Regrant,jcb,HyVee Inc
+232,Female,uk.ac.cam.Veribet,visa-electron,Uriel Pharmacy Inc.
+233,Female,com.nifty.Stronghold,jcb,Major Pharmaceuticals
+234,Non-binary,com.cloudflare.Tresom,jcb,Apotex Corp
+235,Female,com.feedburner.Ventosanzap,china-unionpay,Uriel Pharmacy Inc.
+236,Male,com.nydailynews.Bitwolf,jcb,Cardinal Health
+237,Female,la.51.Pannier,diners-club-carte-blanche,"Aphena Pharma Solutions - Tennessee, LLC"
+238,Male,com.dedecms.Latlux,diners-club-us-ca,REMEDYREPACK INC.
+239,Male,com.dell.Home Ing,diners-club-enroute,American Health Packaging
+240,Female,com.marketwatch.Lotlux,mastercard,"NUGA MEDICAL CO., LTD."
+241,Male,com.acquirethisname.Fix San,jcb,"Chi Research, Inc."
+242,Female,org.dyndns.Sub-Ex,visa,Dynamic Pharmaceuticals Inc.
+243,Male,com.wikispaces.Bytecard,jcb,"Watson Pharma, Inc."
+244,Male,ly.ow.Bitwolf,jcb,Wockhardt USA LLC.
+245,Female,com.imgur.Aerified,jcb,Aurobindo Pharma Limited
+246,Polygender,com.gravatar.Viva,jcb,Australian Skin Products pty ltd
+247,Female,com.intel.Viva,jcb,"Amneal Pharmaceuticals of New York, LLC"
+248,Female,com.bizjournals.Sonair,mastercard,"Newton Laboratories, Inc."
+249,Female,com.hugedomains.Treeflex,jcb,CVS PHARMACY
+250,Genderfluid,com.bloglovin.Hatity,jcb,REMEDYREPACK INC.
+251,Male,com.technorati.Opela,laser,Bryant Ranch Prepack
+252,Female,com.opera.Viva,solo,REMEDYREPACK INC.
+253,Male,com.ehow.Greenlam,mastercard,ARMY AND AIR FORCE EXCHANGE SERVICE
+254,Male,gov.irs.Latlux,jcb,CVS
